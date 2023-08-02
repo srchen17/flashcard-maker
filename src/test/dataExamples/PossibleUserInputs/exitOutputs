@@ -1,0 +1,22 @@
+WELCOME to your study session! :)
+Type .sr file path and ENTER: 
+Type an INTEGER COUNT of how many questions you want to study and ENTER:
+Q:  Taylor Swift song with initials CS? 
+Type s to SHOW ANSWER or e to EXIT and ENTER:
+A:  Cruel Summer 
+Type e to MARK AS EASY or h to MARK AS HARD and ENTER:
+Marked as hard!
+Q:  What is one place you can go whale watching?  
+Type s to SHOW ANSWER or e to EXIT and ENTER:
+A:  Iceland 
+Type e to MARK AS EASY or h to MARK AS HARD and ENTER:
+Marked as hard!
+Q:  Where is the cafe Grace Street located? 
+Type s to SHOW ANSWER or e to EXIT and ENTER:
+NICE! You completed the Study Session :D 
+HERE ARE YOUR STATS: 
+    You answered a crazy 3 questions!
+    Easy -> Hard: 1
+    Hard -> Easy: 0
+Question Bank: 
+    2 hard questions    2 easy questions
